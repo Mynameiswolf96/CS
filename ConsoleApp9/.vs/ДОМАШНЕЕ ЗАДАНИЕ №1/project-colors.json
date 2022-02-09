@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7479be8-c433-45ec-a4c5-b7db0fa8cb8c": {
+      "ProjectGuid": "a7479be8-c433-45ec-a4c5-b7db0fa8cb8c",
+      "DisplayName": "Задание 1",
+      "ColorIndex": 0
+    },
+    "66eb519d-b267-4d2b-aa8a-d2245672da9a": {
+      "ProjectGuid": "66eb519d-b267-4d2b-aa8a-d2245672da9a",
+      "DisplayName": "Задание 2",
+      "ColorIndex": 1
+    },
+    "bbfac1e4-984b-4d57-9328-6551f56b5fd9": {
+      "ProjectGuid": "bbfac1e4-984b-4d57-9328-6551f56b5fd9",
+      "DisplayName": "Задание 3",
+      "ColorIndex": 2
+    },
+    "cbba2ea4-5fe9-442c-9aa8-ecb3fd363a18": {
+      "ProjectGuid": "cbba2ea4-5fe9-442c-9aa8-ecb3fd363a18",
+      "DisplayName": "Задание 4",
+      "ColorIndex": 3
+    },
+    "9a126dfd-cd83-40b8-a077-afae3f83134e": {
+      "ProjectGuid": "9a126dfd-cd83-40b8-a077-afae3f83134e",
+      "DisplayName": "Задание 5",
+      "ColorIndex": 4
+    },
+    "65a5c32c-35dd-453c-8ccd-81a0e6042c3c": {
+      "ProjectGuid": "65a5c32c-35dd-453c-8ccd-81a0e6042c3c",
+      "DisplayName": "Задание 6",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

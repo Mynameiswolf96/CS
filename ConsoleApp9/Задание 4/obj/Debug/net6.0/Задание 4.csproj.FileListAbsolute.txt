@@ -1,0 +1,14 @@
+D:\ConsoleApp9\Задание 4\bin\Debug\net6.0\Задание 4.exe
+D:\ConsoleApp9\Задание 4\bin\Debug\net6.0\Задание 4.deps.json
+D:\ConsoleApp9\Задание 4\bin\Debug\net6.0\Задание 4.runtimeconfig.json
+D:\ConsoleApp9\Задание 4\bin\Debug\net6.0\Задание 4.dll
+D:\ConsoleApp9\Задание 4\bin\Debug\net6.0\ref\Задание 4.dll
+D:\ConsoleApp9\Задание 4\bin\Debug\net6.0\Задание 4.pdb
+D:\ConsoleApp9\Задание 4\obj\Debug\net6.0\Задание 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp9\Задание 4\obj\Debug\net6.0\Задание 4.AssemblyInfoInputs.cache
+D:\ConsoleApp9\Задание 4\obj\Debug\net6.0\Задание 4.AssemblyInfo.cs
+D:\ConsoleApp9\Задание 4\obj\Debug\net6.0\Задание 4.csproj.CoreCompileInputs.cache
+D:\ConsoleApp9\Задание 4\obj\Debug\net6.0\Задание 4.dll
+D:\ConsoleApp9\Задание 4\obj\Debug\net6.0\ref\Задание 4.dll
+D:\ConsoleApp9\Задание 4\obj\Debug\net6.0\Задание 4.pdb
+D:\ConsoleApp9\Задание 4\obj\Debug\net6.0\Задание 4.genruntimeconfig.cache
